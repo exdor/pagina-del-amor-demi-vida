@@ -1,0 +1,26 @@
+body {
+    background-color: blueviolet;
+}
+p {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.imagen1 {
+    width: 50vw;
+height: 50vh;
+}
+
+.imagen2 {
+    float: right;
+    width: 50vw;
+    height: 50vh;
+
+}
+h1 {
+    font-size: 60px;
+}
+h2 { 
+    font-size: 60px;
+}
